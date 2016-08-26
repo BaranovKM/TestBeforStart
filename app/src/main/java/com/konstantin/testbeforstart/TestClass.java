@@ -5,4 +5,5 @@ package com.konstantin.testbeforstart;
  */
 public class TestClass {
     //добавлен новый класс, который будет закомитчен в новую ветку
+    //теперь тот же класс добавляется в новую ветку
 }
